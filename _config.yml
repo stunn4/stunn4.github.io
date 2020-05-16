@@ -1,23 +1,16 @@
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
-email: your@email.com
-
+title: Stunn4's (Simple|Stupid) Blog
+baseurl: "" # name of the repository
+url: "https://stunn4.github.io/"
+email: marcocatalano33@gmail.com
+github_username: stunn4
+age: 19
 
 
 highlighter: rouge
 markdown: kramdown
-
-
-paginate: 4
-
-
-# Tracker
-analytics: UA-83979019-4
-
-# Comments
-disqus-shortname: webjeda-demo
+### exclude the instructions / write-up in the README.md
 
 
 #optimization
@@ -31,20 +24,13 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-
+  
 
 sass:
-  sass_dir: /assets/css/_sass
-  style: compressed
-
-include:
-  - _pages
+ style: compressed
 
 exclude:
-  - README.md
-  - LICENSE.md
+- README.md
 
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
+gems: [jekyll-seo-tag, jekyll-paginate]
