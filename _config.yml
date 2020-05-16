@@ -1,21 +1,16 @@
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
-email: your@email.com
-
+title: Stunn4's (Simple|Stupid) Blog
+baseurl: "" # name of the repository
+url: "https://stunn4.github.io/"
+email: marcocatalano33@gmail.com
+github_username: stunn4
+age: 19
 
 
 highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
-
-
-# Tracker
-analytics: UA-83979019-1
-
-# Comments
-disqus-shortname: webjeda-demo
 
 
 #optimization
