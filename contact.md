@@ -10,4 +10,5 @@ I just love to try harder by studying and doing challenges.<br>
 <br><br>
 Email: <a href="mailto:{{site.email}}">{{site.email}}</a><br>
 Telegram: @stunn4<br>
-LinkedIn: <a href="https://www.linkedin.com/in/marco-c-a81423160/">Marco Catalano</a>
+LinkedIn: <a href="https://www.linkedin.com/in/marco-c-a81423160/">Marco Catalano</a><br>
+Twitter: <a href="https://twitter.com/0xstunn4">0xstunn4</a>
